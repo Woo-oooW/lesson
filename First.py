@@ -1,1 +1,1 @@
-print("푸시")
+print("푸시") asdfsadfsadf
